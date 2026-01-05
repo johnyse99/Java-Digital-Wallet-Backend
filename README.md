@@ -35,6 +35,10 @@ A: While currently relying on Spring's transactional management, the architectur
 
 ---
 
+Note: For production environments, database credentials should be managed via Environment Variables or a Secret Manager.
+
+---
+
 📄 **License**
 This project is distributed under the MIT license. Its purpose is strictly educational and research-based, developed as an Applied Java solution.
 
