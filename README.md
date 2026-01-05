@@ -1,6 +1,6 @@
 # NexusPay - Industrial Grade Digital Wallet Backend
 
-NexusPay is a high-performance, resilient digital wallet solution developed as an **Applied Data Science solution**. The project focuses on strict financial data integrity, transactional atomicity, and a decoupled architecture designed for scalability and maintainability.
+NexusPay is a high-performance, resilient digital wallet solution developed as an **Applied Java solution**. The project focuses on strict financial data integrity, transactional atomicity, and a decoupled architecture designed for scalability and maintainability.
 
 ## 🏗️ Architecture: Hexagonal (Ports & Adapters)
 
@@ -36,7 +36,7 @@ A: While currently relying on Spring's transactional management, the architectur
 ---
 
 📄 **License**
-This project is distributed under the MIT license. Its purpose is strictly educational and research-based, developed as an Applied Data Science solution.
+This project is distributed under the MIT license. Its purpose is strictly educational and research-based, developed as an Applied Java solution.
 
 **Note for recruiters:**
 This project demonstrates my ability to design and implement complex backend systems using professional standards. It highlights my mastery of transactional integrity, clean architecture, and the development of resilient financial software capable of handling real-world failure scenarios.
